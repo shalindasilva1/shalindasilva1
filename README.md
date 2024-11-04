@@ -26,6 +26,6 @@ A full-stack resume management tool with a .NET Core backend and React frontend.
 ## ✨ Interests
 - **AI in Healthcare**: Innovating patient experiences through tech.
 - **Tech Exploration**: Constantly tinkering with new tools and frameworks.
-- **Culé🔴🔵
+- **Culé**🔴🔵
 
 Let's connect! Reach out at **[shalinda.silva95@gmail.com](mailto:shalinda.silva95@gmail.com)** or check out my projects here on GitHub.
