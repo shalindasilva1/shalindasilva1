@@ -23,6 +23,9 @@ I'm a **Software Engineer** with over 6 years of experience in full-stack develo
 ### [CV Manager](https://github.com/shalindasilva1/CV-Manager)
 A full-stack resume management tool with a .NET Core backend and React frontend. This project integrates REST APIs and is deployed on Azure, offering a scalable solution for organizing and sharing professional documents.
 
+### [ClockInOut](https://github.com/shalindasilva1/ClockInOut)
+ClockInOut is a time tracking application developed in C# to demonstrate Aspire and few other .NET 9 new features. It allows users to clock in and out of work, track their working hours, and generate reports.
+
 ## ✨ Interests
 - **AI in Healthcare**: Innovating patient experiences through tech.
 - **Tech Exploration**: Constantly tinkering with new tools and frameworks.
